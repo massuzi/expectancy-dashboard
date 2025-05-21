@@ -28,4 +28,19 @@ The goal is to quantify performance over time and reduce emotion in decision-mak
 ---
 
 ## 📥 Sample Input (Discord trade log)
+Outcome: BE
+Session: IS3
+Direction: Long
+Profit in ticks: 5
+Risk in ticks: 54
+Potential in ticks: 130
+Comments: SL hit at BE
+Chart: https://atas.net/s/xxxx
 
+yaml
+Kopiëren
+Bewerken
+
+---
+
+📍 Based on real-world journaling. Designed for performance-minded traders.
